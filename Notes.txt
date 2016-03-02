@@ -1,2 +1,0 @@
-play with:
-	stop criterions ( max iter , TH_MIN_W_UPDATE , ETA, etc)
